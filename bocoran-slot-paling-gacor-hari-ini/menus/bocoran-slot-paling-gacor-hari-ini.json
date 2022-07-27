@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle bocoran-slot-paling-gacor-hari-ini",
+        "command": "bocoran-slot-paling-gacor-hari-ini:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "bocoran-slot-paling-gacor-hari-ini",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "bocoran-slot-paling-gacor-hari-ini:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "bocoran-slot-paling-gacor-hari-ini",
+  "main": "./lib/bocoran-slot-paling-gacor-hari-ini",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "bocoran-slot-paling-gacor-hari-ini:toggle"
+  },
+  "repository": "https://github.com/atom/bocoran-slot-paling-gacor-hari-ini",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
